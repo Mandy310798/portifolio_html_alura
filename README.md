@@ -11,7 +11,7 @@ O curso inicia desde a estruturaçção das páginas HTML antes de sua estiliza�
 # Imagem do portifólio desenvolvido
 
 
-![Thumbnail Github](assets\print_projeto.png)
+![Thumbnail Github](https://github.com/Mandy310798/potifolio_HTML_Alura/blob/main/assets/print_projeto.png)
 
 <br>
 
